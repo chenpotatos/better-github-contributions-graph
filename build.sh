@@ -29,9 +29,9 @@ cp resources/public/cljs-out/min-main.js build/js/gh-colorful-contributions.js
 echo "Move manifest.json ---"
 cp resources/public/manifest.json build/
 
-if [ -f "g-c-c.zip" ]; then
-  rm g-c-c.zip
+if [ -f "release.zip" ]; then
+  rm release.zip
 fi
 
 echo "Zip ---"
-zip -r g-c-c build -x *.DS_Store
+zip -r release build -x *.DS_Store
