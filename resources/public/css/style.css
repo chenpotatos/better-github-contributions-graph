@@ -1,0 +1,37 @@
+[data-theme='dark'] {
+  background: #0d1117;
+}
+
+.container {
+  width: 450px;
+}
+
+.gcc-header {
+  padding-bottom: 0;
+}
+
+.gcc-panel {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.fills > div {
+  display: flex;
+  margin: 0.5rem 0;
+}
+
+.fills input[type='radio'] {
+  margin-right: 1rem;
+}
+
+.fills ul {
+  display: flex;
+  gap: 8px;
+}
+
+.fills ul > li {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+}
