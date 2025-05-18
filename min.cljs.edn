@@ -1,0 +1,2 @@
+{:main gh-colorful-contributions.core
+ :externs ["externs/chrome.js" "externs/chrome_extensions.js"]}
