@@ -1,0 +1,1 @@
+{"optimizations":"advanced","main":"gh_colorful_contributions.core","externs":["externs\/chrome.js","externs\/chrome_extensions.js"],"output-to":"resources\/public\/cljs-out\/min-main.js","output-dir":"resources\/public\/cljs-out\/min","asset-path":"\/cljs-out\/min","aot-cache":false}
