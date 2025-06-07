@@ -1,6 +1,7 @@
 # **更好的 Github Contributions Gragh**
 ✨个性化你的 Github Contribution Gragh
 
+English Version of README : [Click Here](https://github.com/chenpotatos/better-github-contributions-graph/blob/main/README_EN.md)
 ## 💻 屏幕截图/Sreenshots
 
 ![image](https://github.com/user-attachments/assets/d3f94b7a-66fa-40e7-8195-1f8aa12f8e1a)
